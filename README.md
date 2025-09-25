@@ -79,7 +79,3 @@ Remove todas as entradas de uma data específica. Útil para corrigir escalas en
 ```
 
 Os arquivos `escala.json`, `usuarios.json`, `config.json` e `.env` serão criados durante a execução ou configuração e são intencionalmente ignorados pelo `.gitignore` para proteger dados sensíveis.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir.
