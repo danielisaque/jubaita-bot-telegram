@@ -1,9 +1,3 @@
-Com certeza\! Um bom `README` é o cartão de visitas de qualquer projeto no GitHub.
-
-Preparei um `README.md` completo e bem formatado, com emojis para dar um toque mais amigável. Você pode simplesmente criar um arquivo chamado `README.md` na pasta do seu projeto e colar o texto abaixo.
-
------
-
 # 🤖 Bot de Escala para Telegram 📅
 
 Um bot simples, porém poderoso, para gerenciar escalas e enviar lembretes automáticos para membros de um grupo no Telegram. Perfeito para organizar escalas de trabalho, plantões, ou qualquer atividade recorrente que precise de lembretes.
